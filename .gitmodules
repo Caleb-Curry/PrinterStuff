@@ -1,0 +1,6 @@
+[submodule ".\\MercuryOne.1\\"]
+	path = .\\MercuryOne.1\\
+	url = https://github.com/Caleb-Curry/PrinterStuff/MercuryOne.1
+[submodule ".\\Voron2.4\\"]
+	path = .\\Voron2.4\\
+	url = https://github.com/Caleb-Curry/PrinterStuff/Voron2.4
